@@ -2,7 +2,8 @@
 
 This repository contains code about Improving NQG with CGAN, which adds a discriminator to do adversarial training to improve the performance of neural question generation network.
 
-![Diagram](img/nqg_cgan.jpg)
+![Diagram](img/nqg+cgan.jpg)
+
 (image from the reference below)
 
 ## About the Code
